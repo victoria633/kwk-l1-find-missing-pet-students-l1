@@ -8,6 +8,7 @@ You just began your job as Web Developer at the Animal Sanctuary, and they aren'
 
 Because you're a legit programmer, you know the most efficient way is to navigate the directories in the command line. Use your bash command line skills to move the photos into their correct folders!
 
+
 As a refresher, here's a list of commands to help you with this task:
 
 `pwd` print working directory - shows you where you are
